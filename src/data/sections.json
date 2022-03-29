@@ -1,0 +1,215 @@
+{
+    "slider_v3": {
+        "items": [
+            {
+                "title1": "Our Clients Are Our First Priority",
+                "title2": "LOOKING FOR ",
+                "title_color": "ADVANCED SOLUTIONS ?",
+                "description": "",
+                "description2": "",
+                "image_url": "assets/img/banner/7.png",
+                "btntxt": "Read More"
+            },
+            {
+                "title1": "Smart Technology",
+                "title2": "Crafting online software & hardware ",
+                "title_color": "for you",
+                "description": "There are many variations of passages of Lorem Ipsum available, but the ",
+                "description2": "majority have suffered alteration.",
+                "image_url": "assets/img/banner/7.png",
+                "btntxt": "Read More"
+            },
+            {
+                "title1": "Smart Technology",
+                "title2": "Better product for your ",
+                "title_color": "services",
+                "description": "There are many variations of passages of Lorem Ipsum available, but the ",
+                "description2": "majority have suffered alteration.",
+                "image_url": "assets/img/banner/7.png",
+                "btntxt": "Read More"
+            }
+        ]
+    },
+    "softboxabout": {
+        "sectiontitle": "What is",
+        "sectiontitle_color": "our mission?",
+        "short_description": "We work hard every day to Build the best products by applying AI technology To help humanity thrive all while using sustainable energy",
+        "bgimg": "assets/img/bg/1h1.png",
+        "imgurl": "assets/img/we-provide/robot.jpg",
+        "list_item": []
+    },
+    "softboxmanage": {
+        "sectiontitle_part1": "Vision",
+        "sectiontitle_color": "",
+        "short_description": "Shape the future of Tunisia and Africa with innovation and intelligence to creat a valuable future through innovation and technologies",
+        "imgurl": "assets/img/we-provide/4.png"
+    },
+    "videov2": {
+        "title": "What is  <span>",
+        "title_color": "Blue Jet Engineering ?",
+        "description": "<p>BLUE JET Engineering Is A Tunisian STARTUP Specialized In The Creation Of Advanced Machines And The Development Of New Innovative Solutions Based On The Latest Technologies. </p>",
+        "image_url": "assets/img/we-provide/01.png",
+        "video_url": "https://www.youtube.com/watch?v=c7XEhXZ_rsk",
+        "list": [
+            {
+                "icon": "assets/img/icons/9.png",
+                "title": "Unique Design"
+            },
+            {
+                "icon": "assets/img/icons/11.png",
+                "title": "Mobile ready"
+            },
+            {
+                "icon": "assets/img/icons/10.png",
+                "title": "Custom domain"
+            },
+            {
+                "icon": "assets/img/icons/12.png",
+                "title": "Testing work"
+            }
+        ]
+    },
+    "servicesv2": {
+        "sectiontitle": "ERWINI SOLUTION",
+        "sectiontitle_color": "IRRIGATION  ASSISTANT THAT  MONITORS IRRIGATION  24H / 7D",
+        "short_description": "ERWINI Is A Cloud-connected Hardware That Automates Irrigation  In Your Farm And Put Your Irrigation On Auto-pilot Today.",
+        "items": [
+            {
+                "title": "SAVES TIME, WATER AND MONEY",
+                "icon": "assets/img/icons/sol1.png",
+                "url": "#",
+                "content": "Because You Control The Entire Irrigation System Remotely Via A Mobile App."
+            },
+            {
+                "title": "HELPS YOU MAKE TIMELY DECISIONS",
+                "icon": "assets/img/icons/sol2.png",
+                "url": "#",
+                "content": "Thanks To The Real-time Data And Analytics."
+            },
+            {
+                "title": "ENSURES OPTIMAL YIELDS",
+                "icon": "assets/img/icons/sol3.png",
+                "url": "#",
+                "content": "Because Plants Always Get Optimal Dose Of Water Not More, Not Less Than Needed."
+            }
+        ]
+    },
+    "servicesv4": {
+        "items": [
+            {
+                "icon": "assets/img/icons/s01.png",
+                "title": "Easy to use",
+                "content": "Blue Jet One of the best new born engineering company."
+            },
+            {
+                "icon": "assets/img/icons/s02.png",
+                "title": "Automatic",
+                "content": "Blue Jet offers you new Automatic Solutions."
+            },
+            {
+                "icon": "assets/img/icons/s03.png",
+                "title": "Take a Command",
+                "content": "Blue Jet offers you a 24 hours 7 days of support ."
+            },
+            {
+                "icon": "assets/img/icons/s04.png",
+                "title": "Artificial Intelligence",
+                "content": "Blue Jet uses AI to support farmers and health workers."
+            }
+        ]
+    },
+    "softwarestore": {
+        "title1": "OUR MAIN AREAS ",
+        "title2": "OF EXPERTISE",
+        "description": "",
+        "items": [
+            {
+                "icon": "assets/img/startup/service/EngineeringSketch.jpg",
+                "title": "MECHANICAL",
+                "url": "#"
+            },
+            {
+                "icon": "assets/img/startup/service/ComputerCircuitBoard.jpg",
+                "title": "ELECTRICAL",
+                "url": "#"
+            },
+            {
+                "icon": "assets/img/startup/service/Globalizationconcept.jpg",
+                "title": "IOT",
+                "url": "#"
+            },
+            {
+                "icon": "assets/img/startup/service/Robot.jpg",
+                "title": "ROBOTICS",
+                "url": "#"
+            },
+            {
+                "icon": "assets/img/startup/service/Websitecreation.jpg",
+                "title": "MOBILE & WEB",
+                "url": "#"
+            },
+            {
+                "icon": "assets/img/startup/service/SustainableEnergy.jpg",
+                "title": "RENEWABLE",
+                "url": "#"
+            },
+            {
+                "icon": "assets/img/startup/service/3977563.jpg",
+                "title": "ARTIFICIAL",
+                "url": "#"
+            },
+            {
+                "icon": "assets/img/startup/service/ImagebyShubhamDhage.jpg",
+                "title": "BLOCKCHAIN",
+                "url": "#"
+            }
+        ]
+    },
+    "businessmanage": {
+        "sectiontitle": "ERWINI",
+        "sectionsubtitle": "",
+        "image": "assets/img/others/erwini.png",
+        "short_description": "ERWINI Is A Fully Automatic System To Control Irrigation From Anywhere At Anytime Using A Mobile Application And An Implemented HardWare. ERWINI Solution Can Help Farmers Saving Water Up To 80%.",
+        "items": [
+            {
+                "title": "Remote Control"
+            },
+            {
+                "title": "Water Saving"
+            },
+            {
+                "title": "Timely Decisions"
+            },
+            {
+                "title": "Notifications And Alarms"
+            },
+            {
+                "title": "No Costs For Remodeling"
+            }
+        ]
+    },
+    "about": {
+        "sectiontitle": "",
+        "color": "BIO",
+        "image": "assets/img/others/10.png",
+        "short_description": "We're in business of inspiring people and young generation to build the future through innovation and technologies while using sustainable energy. ",
+        "items": [
+            {
+                "icon": "assets/img/icons/t4.png"
+            },
+            {
+                "icon": "assets/img/icons/t5.png"
+            },
+            {
+                "icon": "assets/img/icons/t6.png"
+            }
+        ]
+    },
+    "contactinfo": {
+        "title": "Contact info:",
+        "description": "Our team is always reachable to answer all your questions.",
+        "address": "Office N°7, Cyber Parc Dgueche, Tunisia",
+        "mobile": " +216 94 632 228",
+        "mail": "contact-@bluejetengineering.com"
+    }
+}

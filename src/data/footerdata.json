@@ -1,0 +1,51 @@
+{
+    "footerlogo": "assets/img/logo.png",
+    "footertext": "Our support team will get assistance from AI-powered, making it quicker than ever to handle support requests.",
+    "footerbg": "assets/img/bg/footer.png",
+    "socialicon": [
+        {
+            "icon": "fa fa-facebook",
+            "url": "https://www.facebook.com/Blue.Jet.Engineering"
+        },
+        {
+            "icon": "fa fa-linkedin",
+            "url": "https://www.linkedin.com/"
+        },
+        {
+            "icon": "fa fa-instagram",
+            "url": "https://www.instagram.com/"
+        },
+        {
+            "icon": "fa fa-youtube",
+            "url": "https://www.youtube.com/"
+        }
+    ],
+    "copyrighttext": " © Blue Jet Engineering 2022 All rights reserved, <a href='https://bluejetengineering.com/' target='_blank'><i class='fa fa-heart'></i><span>Blue Jet Engineering.</span></a>",
+    "contactwidget": {
+        "title": "Contact",
+        "address": "Office N°7, Cyber Parc Dgueche, Tunisia",
+        "contact": "+216 94 632 228",
+        "email": "contact-@bluejetengineering.com"
+    },
+    "quicklink": {
+        "title": "Quick Link",
+        "links": [
+            {
+                "title": "Home",
+                "url": ""
+            },
+            {
+                "title": "About Us",
+                "url": "/about"
+            },
+            {
+                "title": "Services",
+                "url": "services"
+            },
+            {
+                "title": "Contact",
+                "url": "contact"
+            }
+        ]
+    }
+}
